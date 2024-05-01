@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\controllers\\girisyapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\controllers\\girisyapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\models\\classes\\iletisim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\models\\classes\\iletisim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\web\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\web\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\web2\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\web2\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\web\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\web\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\views\\default\\partial1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\views\\default\\partial1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\weblogin\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\weblogin\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\models\\classes\\yorumlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\models\\classes\\yorumlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\models\\classes\\hakkimizda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\models\\classes\\hakkimizda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\models\\classes\\blogyorum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\models\\classes\\blogyorum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\models\\classes\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\models\\classes\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\models\\classes\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\models\\classes\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\models\\classes\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\models\\classes\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\models\\classes\\adresblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\models\\classes\\adresblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\models\\classes\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\models\\classes\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\views\\girisyap\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\views\\girisyap\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\web2\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\web2\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\web\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\web\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|c:\\users\\logar\\desktop\\asp.net-mvc5-ile-tatil-seyahat-sitesi-main\\traveltripproje\\traveltripproje\\web2\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{251CDB58-A3AB-4423-B2E1-93DFEA300E77}|TravelTripProje\\TravelTripProje.csproj|solutionrelative:traveltripproje\\web2\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GirisYapController.cs",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Controllers\\GirisYapController.cs",
+              "RelativeDocumentMoniker": "TravelTripProje\\Controllers\\GirisYapController.cs",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Controllers\\GirisYapController.cs",
+              "RelativeToolTip": "TravelTripProje\\Controllers\\GirisYapController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T22:14:32.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "about.html",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\web\\about.html",
+              "RelativeDocumentMoniker": "TravelTripProje\\web\\about.html",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\web\\about.html",
+              "RelativeToolTip": "TravelTripProje\\web\\about.html",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-01T22:13:30.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "contact.html",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\web2\\contact.html",
+              "RelativeDocumentMoniker": "TravelTripProje\\web2\\contact.html",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\web2\\contact.html",
+              "RelativeToolTip": "TravelTripProje\\web2\\contact.html",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-01T22:13:16.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "contact.html",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\web\\contact.html",
+              "RelativeDocumentMoniker": "TravelTripProje\\web\\contact.html",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\web\\contact.html",
+              "RelativeToolTip": "TravelTripProje\\web\\contact.html",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-01T22:13:00.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "TravelTripProje\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "TravelTripProje\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T22:08:38.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "TravelTripProje\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "TravelTripProje\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T22:08:13.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "TravelTripProje\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "TravelTripProje\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T22:08:11.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Partial1.cshtml",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Views\\Default\\Partial1.cshtml",
+              "RelativeDocumentMoniker": "TravelTripProje\\Views\\Default\\Partial1.cshtml",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Views\\Default\\Partial1.cshtml",
+              "RelativeToolTip": "TravelTripProje\\Views\\Default\\Partial1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T22:01:36.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "iletisim.cs",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Models\\Classes\\iletisim.cs",
+              "RelativeDocumentMoniker": "TravelTripProje\\Models\\Classes\\iletisim.cs",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Models\\Classes\\iletisim.cs",
+              "RelativeToolTip": "TravelTripProje\\Models\\Classes\\iletisim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:19:18.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TravelTripProje\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TravelTripProje\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T22:01:28.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\weblogin\\index.html",
+              "RelativeDocumentMoniker": "TravelTripProje\\weblogin\\index.html",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\weblogin\\index.html",
+              "RelativeToolTip": "TravelTripProje\\weblogin\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-01T20:19:57.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Yorumlar.cs",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Models\\Classes\\Yorumlar.cs",
+              "RelativeDocumentMoniker": "TravelTripProje\\Models\\Classes\\Yorumlar.cs",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Models\\Classes\\Yorumlar.cs",
+              "RelativeToolTip": "TravelTripProje\\Models\\Classes\\Yorumlar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:19:20.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TravelTripProje\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TravelTripProje\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAAABEAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T20:16:13.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Hakkimizda.cs",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Models\\Classes\\Hakkimizda.cs",
+              "RelativeDocumentMoniker": "TravelTripProje\\Models\\Classes\\Hakkimizda.cs",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Models\\Classes\\Hakkimizda.cs",
+              "RelativeToolTip": "TravelTripProje\\Models\\Classes\\Hakkimizda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:19:17.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BlogYorum.cs",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Models\\Classes\\BlogYorum.cs",
+              "RelativeDocumentMoniker": "TravelTripProje\\Models\\Classes\\BlogYorum.cs",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Models\\Classes\\BlogYorum.cs",
+              "RelativeToolTip": "TravelTripProje\\Models\\Classes\\BlogYorum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:19:16.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Models\\Classes\\Context.cs",
+              "RelativeDocumentMoniker": "TravelTripProje\\Models\\Classes\\Context.cs",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Models\\Classes\\Context.cs",
+              "RelativeToolTip": "TravelTripProje\\Models\\Classes\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:19:15.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Models\\Classes\\Blog.cs",
+              "RelativeDocumentMoniker": "TravelTripProje\\Models\\Classes\\Blog.cs",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Models\\Classes\\Blog.cs",
+              "RelativeToolTip": "TravelTripProje\\Models\\Classes\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:19:12.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Anasayfa.cs",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Models\\Classes\\Anasayfa.cs",
+              "RelativeDocumentMoniker": "TravelTripProje\\Models\\Classes\\Anasayfa.cs",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Models\\Classes\\Anasayfa.cs",
+              "RelativeToolTip": "TravelTripProje\\Models\\Classes\\Anasayfa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:19:10.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdresBlog.cs",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Models\\Classes\\AdresBlog.cs",
+              "RelativeDocumentMoniker": "TravelTripProje\\Models\\Classes\\AdresBlog.cs",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Models\\Classes\\AdresBlog.cs",
+              "RelativeToolTip": "TravelTripProje\\Models\\Classes\\AdresBlog.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:18:44.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Models\\Classes\\Admin.cs",
+              "RelativeDocumentMoniker": "TravelTripProje\\Models\\Classes\\Admin.cs",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Models\\Classes\\Admin.cs",
+              "RelativeToolTip": "TravelTripProje\\Models\\Classes\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:18:40.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Views\\GirisYap\\Login.cshtml",
+              "RelativeDocumentMoniker": "TravelTripProje\\Views\\GirisYap\\Login.cshtml",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\Views\\GirisYap\\Login.cshtml",
+              "RelativeToolTip": "TravelTripProje\\Views\\GirisYap\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T20:16:51.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\web2\\index.html",
+              "RelativeDocumentMoniker": "TravelTripProje\\web2\\index.html",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\web2\\index.html",
+              "RelativeToolTip": "TravelTripProje\\web2\\index.html",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAAwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-01T20:14:53.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\web\\index.html",
+              "RelativeDocumentMoniker": "TravelTripProje\\web\\index.html",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\web\\index.html",
+              "RelativeToolTip": "TravelTripProje\\web\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-01T20:13:11.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "about.html",
+              "DocumentMoniker": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\web2\\about.html",
+              "RelativeDocumentMoniker": "TravelTripProje\\web2\\about.html",
+              "ToolTip": "C:\\Users\\logar\\Desktop\\Asp.Net-MVC5-ile-Tatil-Seyahat-Sitesi-main\\TravelTripProje\\TravelTripProje\\web2\\about.html",
+              "RelativeToolTip": "TravelTripProje\\web2\\about.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-01T20:13:02.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
