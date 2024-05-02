@@ -6,11 +6,17 @@ When the project is initially opened, it presents us with a homepage. The homepa
 The project primarily has the following functions:
 
 CRUD operations for adding, deleting, and updating new blogs in the Admin section
+
 CRUD operations for deleting and updating comments made by existing users in the Admin section
+
 Ability to view blog posts and make comments in the UI section
+
 Effective use of MVC (Model-View-Controller) layers
+
 Efficient use of HttpGet and HttpPost attributes on the Controller side
+
 Adoption of the CodeFirst principle and effective use of it on the Model side (tables and relationships synchronized with SQL Server Management Studio)
+
 In summary, I have utilized various technologies to accomplish these functionalities.
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
