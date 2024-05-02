@@ -3,7 +3,7 @@
 
 When the project is initially opened, it presents us with a homepage. The homepage consists of a basic header, a footer, a menu with five options (Home, About Us, Guide <not active>, My Blog, Contact), and content. The About Us page provides basic information about the project. The Guide section is not active. The My Blog section contains various holiday travel destinations, blog posts for these destinations, and comments. The Contact section contains personal information. There is also an Admin login for making adjustments to all blogs and comments.
 
-The project primarily has the following visuals and functions:
+The project primarily has the following functions:
 
 CRUD operations for adding, deleting, and updating new blogs in the Admin section
 CRUD operations for deleting and updating comments made by existing users in the Admin section
@@ -16,7 +16,7 @@ In summary, I have utilized various technologies to accomplish these functionali
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 TR
-Proje ilk açıldığı zaman bizi bir anasayfa karşılıyor. Anasayfada temel şekilde bir header, bir footer, beş seçenekli bir menü (Anasayfa, Hakkımızda, Rehber <aktif değil>, Bloğum, İletişim) ve bir de içerik bulunmaktadır. Hakkımızda sayfasında proje hakkında temel bilgiler verilmiştir. Rehber kısmı aktif değildir. Bloğum kısmında çeşitli tatil seyahat noktaları, bu noktalar için blog yazıları ve yorumları yer almaktadır. İletişim kısmında şahsi bilgilerim yer almaktadır. Projede bir de tüm bloglar ve yorumlar hakkında düzenleme yapabilmemiz için Admin girişi bulunmaktadır. Proje temel olarak aşağıdaki görüntülere sahiptir ve aşağıdaki fonksiyonları yerine getirebilmektedir:
+Proje ilk açıldığı zaman bizi bir anasayfa karşılıyor. Anasayfada temel şekilde bir header, bir footer, beş seçenekli bir menü (Anasayfa, Hakkımızda, Rehber <aktif değil>, Bloğum, İletişim) ve bir de içerik bulunmaktadır. Hakkımızda sayfasında proje hakkında temel bilgiler verilmiştir. Rehber kısmı aktif değildir. Bloğum kısmında çeşitli tatil seyahat noktaları, bu noktalar için blog yazıları ve yorumları yer almaktadır. İletişim kısmında şahsi bilgilerim yer almaktadır. Projede bir de tüm bloglar ve yorumlar hakkında düzenleme yapabilmemiz için Admin girişi bulunmaktadır. Proje temel olarak aşağıdaki fonksiyonları yerine getirebilmektedir:
 
 Admin kısmında Yeni blog ekleme, silme, güncelleme (CRUD işlemleri)
 
